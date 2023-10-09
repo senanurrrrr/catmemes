@@ -1,0 +1,19 @@
+body {
+    background-color: coral;
+
+}
+h1 {
+    font-size:2rem;
+}
+.memes {
+    width : 50%;
+    margin-left: 10%;
+    text-align: center;
+    font-family: 'Anton', sans-serif;
+    padding:100px;
+}
+.catmemes {
+    height:300px;
+    width:300px;
+
+}
